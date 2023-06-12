@@ -23,7 +23,7 @@ We divide our tutorial into the following logical sections:
 * **`downstream`**: has the notebooks that show how to modify the attention maps for downstream applications.
     * `Attend_and_Excite_explain.ipynb`
     * `Attend_and_Excite_generate_images.ipynb`
-* **`explainability`**: has the notebooks that show how to generate explainations from attention-based models (such as Vision Transformers) on the basis of their predictions. 
+* **`explainability`**: has the notebooks that show how to generate explanations from attention-based models (such as Vision Transformers) on the basis of their predictions. 
     * `CLIP_explainability.ipynb`
     * `Comparative_Transformer_explainability.ipynb`
     * `Transformer_explainability.ipynb`
