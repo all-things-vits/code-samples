@@ -2,7 +2,7 @@
 
 Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpreting Attention in Vision](https://all-things-vits.github.io/atv). We leverage 🤗 transformers, 🧨 diffusers, timm, and PyTorch for the code samples.
 
-🌐 Quick links:
+## 🌐 Quick links:
 
 * [Website](https://all-things-vits.github.io/atv) 
 * [Virtual website](https://cvpr2023.thecvf.com/virtual/2023/tutorial/18574) on the CVPR portal
@@ -11,7 +11,7 @@ Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpr
 * Video recording (upcoming)
 
 <div align="center">
-<img src="https://all-things-vits.github.io/atv/static/figures/teaser.jpg"/>
+<img src="https://all-things-vits.github.io/atv/static/figures/teaser.jpg" width=650/>
 </div>
 
 ## Using the code samples
