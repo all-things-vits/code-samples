@@ -7,6 +7,8 @@ Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpr
 * [Website](https://all-things-vits.github.io/atv) 
 * [Virtual website](https://cvpr2023.thecvf.com/virtual/2023/tutorial/18574) on the CVPR portal
 * [Interactive demos](https://huggingface.co/all-things-vits) (no setup required)
+* Slides (upcoming)
+* Video recording (upcoming)
 
 <div align="center">
 <img src="https://all-things-vits.github.io/atv/static/figures/teaser.jpg"/>
