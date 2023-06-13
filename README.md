@@ -20,9 +20,6 @@ We provide all the code samples as Colab Notebooks so that no setup is needed lo
 
 We divide our tutorial into the following logical sections:
 
-* **`downstream`**: has the notebooks that show how to modify the attention maps for downstream applications.
-    * `Attend_and_Excite_explain.ipynb`
-    * `Attend_and_Excite_generate_images.ipynb`
 * **`explainability`**: has the notebooks that show how to generate explanations from attention-based models (such as Vision Transformers) on the basis of their predictions. 
     * `CLIP_explainability.ipynb`
     * `Comparative_Transformer_explainability.ipynb`
@@ -42,23 +39,6 @@ Below we provide links to all the Colab Notebooks:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td rowspan="2"><code>downstream</code></td>
-      <td><code>Attend_and_Excite_explain.ipynb</code></td>
-      <td>
-        <a href="https://colab.research.google.com/github/all-things-vits/code-samples/blob/main/downstream/Attend_and_Excite_explain.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>Attend_and_Excite_generate_images.ipynb</code></td>
-      <td>
-        <a href="https://colab.research.google.com/github/all-things-vits/code-samples/blob/main/downstream/Attend_and_Excite_generate_images.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
-        </a>
-      </td>
-    </tr>
     <tr>
       <td rowspan="3"><code>explainability</code></td>
       <td><code>CLIP_explainability.ipynb</code></td>
@@ -109,7 +89,5 @@ Below we provide links to all the Colab Notebooks:
 
 The following notebooks were taken from their original repositories with the authors being aware of this:
 
-* `Attend_and_Excite_explain.ipynb` ([original](https://github.com/yuval-alaluf/Attend-and-Excite/blob/main/notebooks/explain.ipynb))
-* `Attend_and_Excite_generate_images.ipynb` ([original](https://github.com/yuval-alaluf/Attend-and-Excite/blob/main/notebooks/generate_images.ipynb))
 * `CLIP_explainability.ipynb` ([original](https://github.com/hila-chefer/Transformer-MM-Explainability/blob/main/CLIP_explainability.ipynb))
 * `Transformer_explainability.ipynb` ([original](https://github.com/hila-chefer/Transformer-Explainability/blob/main/Transformer_explainability.ipynb))
