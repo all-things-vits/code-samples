@@ -1,6 +1,6 @@
 # All Things ViTs (CVPR'23 Tutorial)
 
-*By: [Hila Chefer](https://hila-chefer.github.io/) (Tel-Aviv University and Google) and [Sayak Paul](https://sayak.dev/) (Hugging Face)*
+*By: [Hila Chefer](https://hila-chefer.github.io/) (Tel-Aviv University and Google) and [Sayak Paul](https://sayak.dev/) (Hugging Face) (with [Ron Mokady](https://rmokady.github.io/) as a guest speaker)*
 
 Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpreting Attention in Vision](https://all-things-vits.github.io/atv). We leverage 🤗 transformers, 🧨 diffusers, timm, and PyTorch for the code samples.
 
@@ -9,7 +9,7 @@ Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpr
 * [Website](https://all-things-vits.github.io/atv) 
 * [Virtual website](https://cvpr2023.thecvf.com/virtual/2023/tutorial/18574) on the CVPR portal
 * [Interactive demos](https://huggingface.co/all-things-vits) (no setup required)
-* Slides (upcoming)
+* [Slides](https://drive.google.com/file/d/10NaQNVybucl8i2Or0iA_DC_NWkhs_IgV/view?usp=sharing) (Ron's slides are [here](https://drive.google.com/file/d/18U9rMGrMelC1oMv4c7j6aJwqkv5puSA9/view?usp=drive_link))
 * Video recording (upcoming)
 
 <div align="center">
