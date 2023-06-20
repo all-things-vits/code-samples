@@ -10,7 +10,7 @@ Holds code for our CVPR'23 tutorial: [All Things ViTs: Understanding and Interpr
 * [Virtual website](https://cvpr2023.thecvf.com/virtual/2023/tutorial/18574) on the CVPR portal
 * [Interactive demos](https://huggingface.co/all-things-vits) (no setup required)
 * [Slides](https://drive.google.com/file/d/10NaQNVybucl8i2Or0iA_DC_NWkhs_IgV/view?usp=sharing) (Ron's slides are [here](https://drive.google.com/file/d/18U9rMGrMelC1oMv4c7j6aJwqkv5puSA9/view?usp=drive_link))
-* Video recording (upcoming)
+* [Video recording](https://youtu.be/ma3NYVo8Im0)
 
 <div align="center">
 <img src="https://all-things-vits.github.io/atv/static/figures/teaser.jpg" width=650/>
